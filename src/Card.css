@@ -1,0 +1,7 @@
+.Card {
+    position: absolute;
+    transform-origin: center center;
+    transition: transform 0.3s ease-in-out;
+    margin-right: 10px; /* Adjust the margin as needed to control spacing */
+  }
+  
